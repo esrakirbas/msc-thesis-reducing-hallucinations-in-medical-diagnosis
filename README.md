@@ -1,7 +1,7 @@
 # Reducing Hallucinations in LLM-Based Medical Diagnosis <br>(Thesis Research Repo - Esra Kirdi)
 
 ## Research Documents - In progress
-- [Thesis Draft](https://docs.google.com/document/d/1No2KlDcltXR1dFdmcPHkUWx4YnYl76mP/edit?usp=sharing&ouid=110138241796632820242&rtpof=true&sd=true)
+- [Thesis Draft](https://docs.google.com/document/d/1U2N0AYxP11gzh6efOEu1vt_8_Vkigy39/edit?usp=sharing&ouid=110138241796632820242&rtpof=true&sd=true)
 - [Scoping Review Draft](https://docs.google.com/document/d/1khmncOeDhqBWt3Wz5bExvgws3FLosDlY/edit?usp=sharing&ouid=110138241796632820242&rtpof=true&sd=true)
 
 ## Experiments
