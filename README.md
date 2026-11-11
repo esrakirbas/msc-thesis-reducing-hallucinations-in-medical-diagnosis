@@ -5,7 +5,7 @@
 - [Scoping Review Draft](https://docs.google.com/document/d/1khmncOeDhqBWt3Wz5bExvgws3FLosDlY/edit?usp=sharing&ouid=110138241796632820242&rtpof=true&sd=true)
 
 ## Experiments
-- [Grounding Experiment - 01 (MedQA Questions & Corpus)](experiments/Medical_Grounding_Experiment_001_MedQA_questions_and_corpus.ipynb) (In Progress - Nov 04, 2026)
+- [Grounding Experiment - 01 (MedQA Questions & Corpus)](experiments/Medical_Grounding_001_Data_Preparation_questions_and_corpus_from_MedQA.ipynb) (In Progress - Nov 04, 2026)
 <br>
 <br>
 
