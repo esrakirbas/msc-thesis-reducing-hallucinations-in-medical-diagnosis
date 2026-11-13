@@ -64,3 +64,5 @@ Grounding Context 3 - Question 20
 In striking contrast is the hypoactive subtype, exemplified by benzodiazepine intoxication, in which patients are withdrawn and quiet, with prominent apathy and psychomotor slowing.
 
 In contrast, in opioid and sedative-hypnotic poisoning, vital-sign changes are secondary to depression of CNS cardiovascular and respiratory centers (or consequent hypoxemia), and significant abnormalities in these parameters do not occur until there is a marked decrease in the level of consciousness (grade 3 or 4 physiologic depression; [Table 473e-2]).
+
+Sedative drugs, especially neuroleptics and long-acting benzodiazepines, affect postural control and increase the risk for falls.
