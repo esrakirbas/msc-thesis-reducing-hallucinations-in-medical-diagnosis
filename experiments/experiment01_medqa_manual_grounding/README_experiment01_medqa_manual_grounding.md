@@ -2,7 +2,7 @@
 
 ### Objective
 
-I completed my first small-scale experiment using Qwen2.5-3B-Instruct and four manually selected questions from the MedQA dataset.
+I completed my first small-scale experiment using Qwen2.5-3B-Instruct and four manually selected questions from the [MedQA](https://huggingface.co/datasets/awinml/medqa) dataset.
 For grounding contexts, I used ChatGPT to help identify relevant passages from the medical textbooks included in MedQA.
 The main objectives of this experiment were to become familiar with the development environment and tools, including Google Colab, Hugging Face, and GitHub, by building and running a complete experimental pipeline, and to gain a general understanding of how a context grounding pipeline works before moving to a more systematic experiment with larger benchmarks and corpora.
 
